@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InsideOut92
-- 👀 I’m interested in codiung and cybersecurity
+- 👀 I’m interested in coding and cybersecurity
 - 🌱 I’m currently learning application development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: not at all in best case
